@@ -18,8 +18,9 @@ The ATM (Automated Teller Machine) project is designed to simulate the functiona
      - **Input Validation:** Ensure that all user inputs are valid and reasonable.
 
 **Enhancements**
-Once you have the basic functionality working, you might consider adding more features:
-     - **Security Enhancements:** Encrypt PINs and sensitive data.
-     - **Transaction History:** Keep a log of transactions.
-     - **Multiple Accounts:** Handle multiple accounts for a single user.
-     - **Graphical User Interface (GUI):** Create a GUI using Swing or JavaFX.
+
+   Once you have the basic functionality working, you might consider adding more features:
+     * **Security Enhancements:** Encrypt PINs and sensitive data.
+     * **Transaction History:** Keep a log of transactions.
+     * **Multiple Accounts:** Handle multiple accounts for a single user.
+     * **Graphical User Interface (GUI):** Create a GUI using Swing or JavaFX.
